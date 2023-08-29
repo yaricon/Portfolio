@@ -8,13 +8,13 @@
 
 ## Навыки и инструменты
 
-- python
-- pandas
-- matplotlib
-- seaborn
-- plotly
-- json
-- folium
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- Json
+- Folium
 
 ## Общий вывод
 
