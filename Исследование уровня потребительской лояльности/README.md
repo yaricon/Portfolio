@@ -8,9 +8,9 @@
 
 ## Навыки и инструменты
 
-- python
-- pandas
-- numpy
+- Python
+- Pandas
+- Numpy
 - SQL
 - Tableau
 - Построение дашбордов
