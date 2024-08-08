@@ -1,6 +1,6 @@
 # Анализ убытков приложения ProcrastinatePRO+
 
-[Проект](https://github.com/yaricon/Portfolio/blob/main/Исследование%20маркетинга/Анализ%20маркетинговых%20показателей.ipynb)
+[Проект](https://github.com/yaricon/Portfolio/blob/main/08%20Развлекательное%20приложение/Анализ%20маркетинговых%20показателей.ipynb)
 
 ## Описание проекта
 
