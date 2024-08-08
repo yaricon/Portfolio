@@ -1,6 +1,6 @@
 # Исследование конференций
 
-[Проект](https://github.com/yaricon/Portfolio/blob/main/Исследование%20конференций/Анализ%20конференций.ipynb)
+[Проект](https://github.com/yaricon/Portfolio/blob/main/06%20TED%20Конференции/Анализ%20конференций.ipynb)
 
 ## Описание проекта
 
