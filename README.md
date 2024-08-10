@@ -23,3 +23,8 @@
 
 <br>
 <span align="center">
+
+## Диплом о прохождении курса
+
+![image](https://github.com/user-attachments/assets/08b71b0b-a539-43b9-a494-3157e4b9026a)
+![image](https://github.com/user-attachments/assets/498ac6d4-8e57-498a-a65f-56866922efd4)
